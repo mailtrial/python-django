@@ -1,2 +1,2 @@
 this is sample file
-pushing via check_pr
+pushing via master
