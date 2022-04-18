@@ -1,0 +1,10 @@
+version: '1.0'
+services:
+
+  web:
+    image : nginx
+    build: .
+    ports:
+      -8000:3000 
+      
+
